@@ -1,0 +1,10 @@
+package TPO-Concurrente;
+
+
+public class ParqueMain(){
+    public static void main(String[] args){
+        //Inicializacion de la atraccion RV con semaforos generales
+        //Se inicializa 3 visores, 3 bases y 6 manoplas
+        
+    }
+}
